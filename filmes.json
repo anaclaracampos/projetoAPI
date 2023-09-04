@@ -1,0 +1,34 @@
+{
+    "filmes": [
+      {
+        "nome": "O Poderoso Chefão",
+        "genero": "Crime, Drama",
+        "criador": "Francis Ford Coppola",
+        "sinopse": "A saga da família Corleone, liderada por Don Vito Corleone, enquanto tenta manter seu império do crime e enfrenta desafios internos e externos."
+      },
+      {
+        "nome": "Interestelar",
+        "genero": "Ficção Científica, Drama",
+        "criador": "Christopher Nolan",
+        "sinopse": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade, enfrentando desafios cósmicos e temporais."
+      },
+      {
+        "nome": "E o Vento Levou",
+        "genero": "Drama, Romance",
+        "criador": "Victor Fleming",
+        "sinopse": "A história de Scarlett O'Hara, uma jovem do sul dos Estados Unidos, durante a Guerra Civil Americana, e seu relacionamento com Rhett Butler."
+      },
+      {
+        "nome": "Matrix",
+        "genero": "Ação, Ficção Científica",
+        "criador": "Irmãos Wachowski",
+        "sinopse": "Um hacker chamado Neo descobre que o mundo em que vive é uma simulação de computador e se junta a uma rebelião para combater máquinas dominantes."
+      },
+      {
+        "nome": "Titanic",
+        "genero": "Drama, Romance",
+        "criador": "James Cameron",
+        "sinopse": "A história de amor entre Jack e Rose a bordo do navio Titanic, que eventualmente naufraga em uma das tragédias mais famosas da história."
+      }
+    ]
+  }

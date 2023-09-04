@@ -1,0 +1,35 @@
+{
+    "series": [
+      {
+        "nome": "Breaking Bad",
+        "genero": "Drama, Crime",
+        "criador": "Vince Gilligan",
+        "sinopse": "A série segue a transformação de um professor de química, Walter White, em um fabricante de metanfetamina, enquanto enfrenta desafios criminais e morais."
+      },
+      {
+        "nome": "Game of Thrones",
+        "genero": "Fantasia, Drama",
+        "criador": "David Benioff, D.B. Weiss",
+        "sinopse": "Baseada na série de livros de George R.R. Martin, a série narra as lutas pelo poder em Westeros, com intriga política, guerra e elementos sobrenaturais."
+      },
+      {
+        "nome": "Stranger Things",
+        "genero": "Ficção Científica, Terror",
+        "criador": "Irmãos Duffer",
+        "sinopse": "A série acompanha um grupo de crianças em uma cidade onde eventos sobrenaturais e experimentos secretos do governo se desenrolam."
+      },
+      {
+        "nome": "Friends",
+        "genero": "Comédia",
+        "criador": "David Crane, Marta Kauffman",
+        "sinopse": "A série gira em torno de um grupo de seis amigos que vivem em Nova York e compartilham suas experiências de vida, amor e amizade."
+      },
+      {
+        "nome": "Sherlock",
+        "genero": "Drama, Mistério",
+        "criador": "Steven Moffat, Mark Gatiss",
+        "sinopse": "Uma moderna adaptação das histórias clássicas de Sherlock Holmes, com o detetive Sherlock Holmes resolvendo crimes em Londres."
+      }
+    ]
+  }
+  
