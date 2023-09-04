@@ -1,0 +1,34 @@
+{
+    "desenhos_animados": [
+      {
+        "nome": "Tom e Jerry",
+        "genero": "Comédia",
+        "criador": "William Hanna e Joseph Barbera",
+        "sinopse": "Tom e Jerry são uma dupla de personagens de desenho animado criada em 1940. A série gira em torno das tentativas de Tom de capturar Jerry, mas suas travessuras muitas vezes resultam em situações engraçadas."
+      },
+      {
+        "nome": "Pica-Pau",
+        "genero": "Animação",
+        "criador": "Walter Lantz",
+        "sinopse": "Pica-Pau é um pássaro de desenho animado conhecido por sua personalidade excêntrica e pelo caos que ele causa. Criado em 1940, o Pica-Pau é famoso por suas risadas e suas travessuras."
+      },
+      {
+        "nome": "Bob Esponja",
+        "genero": "Animação",
+        "criador": "Stephen Hillenburg",
+        "sinopse": "Bob Esponja é uma esponja marinha que trabalha no restaurante Siri Cascudo e vive em um abacaxi no fundo do mar. A série segue suas aventuras na cidade subaquática de Fenda do Biquíni."
+      },
+      {
+        "nome": "Scooby-Doo",
+        "genero": "Mistério",
+        "criador": "Joe Ruby e Ken Spears",
+        "sinopse": "Scooby-Doo é um cão detetive que viaja em uma van misteriosa com sua equipe para resolver mistérios envolvendo criaturas sobrenaturais. A série é conhecida por seu senso de humor e suspense leve."
+      },
+      {
+        "nome": "Os Simpsons",
+        "genero": "Animação adulta",
+        "criador": "Matt Groening",
+        "sinopse": "Os Simpsons são uma família disfuncional que vive na cidade de Springfield. A série satiriza a cultura americana, a política e a sociedade, enquanto explora a vida cotidiana da família Simpson."
+      }
+    ]
+  }
