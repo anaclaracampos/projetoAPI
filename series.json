@@ -1,5 +1,4 @@
-{
-    "series": [
+[
       {
         "nome": "Breaking Bad",
         "genero": "Drama, Crime",
@@ -31,5 +30,4 @@
         "sinopse": "Uma moderna adaptação das histórias clássicas de Sherlock Holmes, com o detetive Sherlock Holmes resolvendo crimes em Londres."
       }
     ]
-  }
   
