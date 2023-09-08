@@ -1,32 +1,44 @@
 [
       {
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/93/20/20120876.jpg",    
         "nome": "O Poderoso Chefão",
         "genero": "Crime, Drama",
         "criador": "Francis Ford Coppola",
         "sinopse": "A saga da família Corleone, liderada por Don Vito Corleone, enquanto tenta manter seu império do crime e enfrenta desafios internos e externos."
       },
       {
+        "imagem": "https://play-lh.googleusercontent.com/em2griqrHoxmxEss_WM5Fi2iqSEKrEfLNAltjX54lREOR0nz0du__KuSi2bA_YNjS4w",    
         "nome": "Interestelar",
         "genero": "Ficção Científica, Drama",
         "criador": "Christopher Nolan",
         "sinopse": "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade, enfrentando desafios cósmicos e temporais."
       },
       {
+        "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/90/95/72/20122043.jpg",    
         "nome": "E o Vento Levou",
         "genero": "Drama, Romance",
         "criador": "Victor Fleming",
         "sinopse": "A história de Scarlett O'Hara, uma jovem do sul dos Estados Unidos, durante a Guerra Civil Americana, e seu relacionamento com Rhett Butler."
       },
       {
+        "imagem": "https://br.web.img2.acsta.net/medias/nmedia/18/91/08/82/20128877.JPG",    
         "nome": "Matrix",
         "genero": "Ação, Ficção Científica",
         "criador": "Irmãos Wachowski",
         "sinopse": "Um hacker chamado Neo descobre que o mundo em que vive é uma simulação de computador e se junta a uma rebelião para combater máquinas dominantes."
       },
       {
+        "imagem": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9Im1IRTkH5oDJ3W9-NKiW8sCIm2Y0bqoBN39sgKH1_pvRBqMD",   
         "nome": "Titanic",
         "genero": "Drama, Romance",
         "criador": "James Cameron",
         "sinopse": "A história de amor entre Jack e Rose a bordo do navio Titanic, que eventualmente naufraga em uma das tragédias mais famosas da história."
+      },
+      {
+        "imagem": "https://cinema10.com.br/upload/featuredImage.php?url=https%3A%2F%2Fcinema10.com.br%2Fupload%2Ffilmes%2Ffilmes_15929_oppenheimer-poster-novo.jpg",    
+        "nome": "Oppenheimer",
+        "genero": "Ficção histórica",
+        "criador": "Christopher Nolan",
+        "sinopse": "O físico J. Robert Oppenheimer trabalha com uma equipe de cientistas durante o Projeto Manhattan, levando ao desenvolvimento da bomba atômica."
       }
     ]
