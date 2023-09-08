@@ -1,33 +1,45 @@
 [
       {
+        "imagem": "https://media.fstatic.com/mVz0AlhYWp6CZOxafLp_g14b6MM=/322x478/smart/filters:format(webp)/media/movies/covers/2018/09/tom_jerr.jpg"    
         "nome": "Tom e Jerry",
         "genero": "Comédia",
         "criador": "William Hanna e Joseph Barbera",
         "sinopse": "Tom e Jerry são uma dupla de personagens de desenho animado criada em 1940. A série gira em torno das tentativas de Tom de capturar Jerry, mas suas travessuras muitas vezes resultam em situações engraçadas."
       },
       {
+        "imagem": "https://pbs.twimg.com/media/FXbSIyuWYAAPftb.jpg:large"    
         "nome": "Pica-Pau",
         "genero": "Animação",
         "criador": "Walter Lantz",
         "sinopse": "Pica-Pau é um pássaro de desenho animado conhecido por sua personalidade excêntrica e pelo caos que ele causa. Criado em 1940, o Pica-Pau é famoso por suas risadas e suas travessuras."
       },
       {
+        "imagem": "https://static.wikia.nocookie.net/dublagem/images/4/45/Poster-Bob-Esponja.jpg/revision/latest?cb=20210312181253&path-prefix=pt-br"    
         "nome": "Bob Esponja",
         "genero": "Animação",
         "criador": "Stephen Hillenburg",
         "sinopse": "Bob Esponja é uma esponja marinha que trabalha no restaurante Siri Cascudo e vive em um abacaxi no fundo do mar. A série segue suas aventuras na cidade subaquática de Fenda do Biquíni."
       },
       {
+        "imagem": "https://www.cdpoint.com.br/Imagens_main/789/211/003/7892110038515.jpg"    
         "nome": "Scooby-Doo",
         "genero": "Mistério",
         "criador": "Joe Ruby e Ken Spears",
         "sinopse": "Scooby-Doo é um cão detetive que viaja em uma van misteriosa com sua equipe para resolver mistérios envolvendo criaturas sobrenaturais. A série é conhecida por seu senso de humor e suspense leve."
       },
       {
+        "imagem": "https://s2-g1.glbimg.com/Sgt2CI82plGJ9J2KVEmmMS9czbo=/0x0:300x400/600x0/smart/filters:gifv():strip_icc()/s.glbimg.com/jo/g1/f/original/2012/04/11/simpsons2.jpg"    
         "nome": "Os Simpsons",
         "genero": "Animação adulta",
         "criador": "Matt Groening",
         "sinopse": "Os Simpsons são uma família disfuncional que vive na cidade de Springfield. A série satiriza a cultura americana, a política e a sociedade, enquanto explora a vida cotidiana da família Simpson."
+      },
+      {
+        "imagem": "https://static.wikia.nocookie.net/dublagem/images/9/98/HoradeAventura.jpg/revision/latest/scale-to-width-down/1200?cb=20220313210152&path-prefix=pt-br"    
+        "nome": "Hora de Aventura",
+        "genero": "Aventura",
+        "criador": "Pendleton Ward",
+        "sinopse": "Finn vive grandes aventuras na terra de Ooo na companhia de seu melhor amigo, Jake. De viagens a reinos alucinantes a lutas contra vampiros, os dois estão prontos para enfrentar qualquer perigo."
       }
+      
     ]
-  
