@@ -1,33 +1,45 @@
 [
       {
+        "imagem": "https://i.pinimg.com/736x/72/83/92/728392b482329cfef27833fe110321b8--netflix-series-on-netflix.jpg",    
         "nome": "Breaking Bad",
         "genero": "Drama, Crime",
         "criador": "Vince Gilligan",
         "sinopse": "A série segue a transformação de um professor de química, Walter White, em um fabricante de metanfetamina, enquanto enfrenta desafios criminais e morais."
       },
       {
+        "imagem": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg",    
         "nome": "Game of Thrones",
         "genero": "Fantasia, Drama",
         "criador": "David Benioff, D.B. Weiss",
         "sinopse": "Baseada na série de livros de George R.R. Martin, a série narra as lutas pelo poder em Westeros, com intriga política, guerra e elementos sobrenaturais."
       },
       {
+        "imagem": "https://es.web.img3.acsta.net/pictures/22/05/14/13/26/5638861.jpg",    
         "nome": "Stranger Things",
         "genero": "Ficção Científica, Terror",
         "criador": "Irmãos Duffer",
         "sinopse": "A série acompanha um grupo de crianças em uma cidade onde eventos sobrenaturais e experimentos secretos do governo se desenrolam."
       },
       {
+        "imagem": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",    
         "nome": "Friends",
         "genero": "Comédia",
         "criador": "David Crane, Marta Kauffman",
         "sinopse": "A série gira em torno de um grupo de seis amigos que vivem em Nova York e compartilham suas experiências de vida, amor e amizade."
       },
       {
+        "imagem": "https://m.media-amazon.com/images/I/714nEMf6oyS._AC_UF894,1000_QL80_.jpg",    
         "nome": "Sherlock",
         "genero": "Drama, Mistério",
         "criador": "Steven Moffat, Mark Gatiss",
         "sinopse": "Uma moderna adaptação das histórias clássicas de Sherlock Holmes, com o detetive Sherlock Holmes resolvendo crimes em Londres."
+      },
+      {
+        "imagem": "https://akns-images.eonline.com/eol_images/Entire_Site/201869/rs_634x939-180709061638-634-oitnb-s6.ch.070918.jpg?fit=around%7C634:939&output-quality=90&crop=634:939;center,top",    
+        "nome": "Orange Is The New Black",
+        "genero": "Crime, Comédia",
+        "criador": "Jenji Kohan",
+        "sinopse": "Uma privilegiada garota de Nova York acaba na prisão por um crime cometido anos atrás."
       }
     ]
   
