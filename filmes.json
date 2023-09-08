@@ -1,5 +1,4 @@
-{
-    "filmes": [
+[
       {
         "nome": "O Poderoso Chefão",
         "genero": "Crime, Drama",
@@ -31,4 +30,3 @@
         "sinopse": "A história de amor entre Jack e Rose a bordo do navio Titanic, que eventualmente naufraga em uma das tragédias mais famosas da história."
       }
     ]
-  }
