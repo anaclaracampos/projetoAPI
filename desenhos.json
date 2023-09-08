@@ -1,5 +1,4 @@
-{
-    "desenhos_animados": [
+[
       {
         "nome": "Tom e Jerry",
         "genero": "Comédia",
@@ -31,4 +30,4 @@
         "sinopse": "Os Simpsons são uma família disfuncional que vive na cidade de Springfield. A série satiriza a cultura americana, a política e a sociedade, enquanto explora a vida cotidiana da família Simpson."
       }
     ]
-  }
+  
